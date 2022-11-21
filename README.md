@@ -1,7 +1,8 @@
 
 <a name="readme-top"></a>
 
-[![LinkedIn][linkedin-shield]][]
+
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -56,7 +57,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@deniskip](https://twitter.com/deniskip) - email@example.com
+Twitter - [@deniskip](https://twitter.com/deniskip)
+Email - denisbiwott@gmail.com
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
