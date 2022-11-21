@@ -12,6 +12,11 @@
 
 This is a simple project that generates random users using an external API and displays them along with a photo and matching colors and photo depending on the gender.
 
+<img width="490" alt="Screenshot 2022-11-21 at 16 16 45" src="https://user-images.githubusercontent.com/52312209/203067886-c47020ec-8e6e-4ae4-b9bf-94e28bf675d3.png">
+
+<img width="497" alt="Screenshot 2022-11-21 at 16 16 01" src="https://user-images.githubusercontent.com/52312209/203067980-da3044b5-61bb-417f-8bd5-b25c38ef2b87.png">
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
